@@ -1,0 +1,11 @@
+# Ignorar arquivos temporários do PHP
+*.log
+*.cache
+*.tmp
+
+# Ignorar arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração local
+.env
