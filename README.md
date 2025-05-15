@@ -1,6 +1,6 @@
 # Projeto Formulário de Contato em PHP
 
-Este projeto é um formulário de contato simples feito em PHP puro que envia e-mails usando a biblioteca PHPMailer. É ideal para portfólio.
+Este projeto é um formulário de contato simples feito em PHP puro que envia e-mails usando a biblioteca PHPMailer.
 
 ## Funcionalidades
 
